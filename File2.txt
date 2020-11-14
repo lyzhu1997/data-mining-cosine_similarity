@@ -1,0 +1,80 @@
+What is cybersecurity risk management?
+Rather than doors, locks and vaults, IT departments rely on a combination of strategies, technologies and user education to protect an enterprise against cybersecurity attacks that can compromise systems, steal data and other valuable company information, and damage an enterprise’s reputation. As the volume and severity of cyber attacks grow, the need for cybersecurity risk management grows with it.
+
+Cybersecurity risk management takes the idea of real world risk management and applies it to the cyberworld. It involves identifying your risks and vulnerabilities and applying administrative actions and comprehensive solutions to make sure your organization is adequately protected.
+
+Setting up your risk management system
+Before setting up a cybersecurity risk management system, the enterprise needs to determine what assets it needs to protect and prioritize. As the National Institute of Standards and Technology (NIST) points out in its Framework for Improving Critical Infrastructure Cybersecurity, there is no one-size-fits all solution. Different organizations have different technology infrastructures and different potential risks. Some organizations such as financial services firms and healthcare organizations, have regulatory concerns in addition to business concerns that need to be addressed in a cybersecurity risk management system. Cybersecurity should follow a layered approach, with additional protections for the most important assets, such as corporate and customer data. Remember that reputational harm from a breach can do more damage than the breach itself.
+
+Citrix recommends that organizations have fully documented and implemented procedures for all activities that may create cybersecurity risks. Corporate cybersecurity programs should be based off of industry leading practices in line with ISO 270001/2. Typical programs include hardware and software implementations that have change management oversight and non-production testing and evaluation.
+
+Risk management process
+Start with a cybersecurity framework developed from each area of the business to determine what the desired risk posture of the business should be.
+
+Guidance Software recommends using new technologies that can find and map data across the enterprise. Once data is mapped, organizations make better decisions on how that data is governed and reduce their risk footprint. For example, even with training and a strong security culture, sensitive information can leave an organization simply by accident, such as data stored in hidden rows in spreadsheets or included in notes within employee presentations or long email threads. Scanning the enterprise for sensitive data at rest and then removing any data stored where it does not belong greatly reduces the risk of an accidental loss of sensitive data.
+
+Deloitte recommends that the risk management process follow the Capability Maturity Model approach, with the following five levels:
+
+1.     Initial (chaotic, ad hoc, individual heroics) - the starting point for use of a new or undocumented repeat process
+
+2.     Repeatable - the process is at least documented sufficiently such that repeating the same steps may be attempted
+
+3.     Defined - the process is defined and confirmed as a standard business process
+
+4.     Managed - the process is quantitatively managed in accordance with agreed-upon metrics
+
+5.     Optimizing - process management includes deliberate process optimization/improvement.
+
+When the desired risk posture is determined, examine the enterprise technology infrastructure to determine a baseline for the current risk posture and what the enterprise needs to do to move from the current state to the desired state of risk exposure.
+
+As long as proactive steps are taken to understand potential risks, there will be less of a likelihood of risk exposure and falling victim to a cybersecurity incident.
+
+Deloitte also recommends doing a risk/reward calculation, then prioritizing those network security enhancements that will provide the greatest improvements at the lowest cost. Some enterprises may be comfortable with 99 percent of all security upgrades being made. Others, particularly in regulated industries, will want to be closer to 100 percent. So there should be incremental steps and goals (i.e., 5 percent improvement within six months) that can be measured to determine if the enterprise is progressing toward its planned cybersecurity risk posture.
+
+However, even small security vulnerabilities can lead to large losses if network systems are connected in such a way that intrusion into an unimportant area can provide an unauthorized entry into more important systems and more sensitive data.
+
+The only way to make a system 100 percent secure is to make sure it isn’t accessible by anyone, which is impractical at best. The more locked down a system is, the harder it may be for authorized personnel to conduct business. If authorized users find they cannot access the systems or data they need in order to perform their jobs, they may look for workarounds that could compromise systems.
+
+Risk mitigation
+Among the cybersecurity precautions to consider:
+
+·        Limiting devices with Internet access
+
+·        Installing Network Access Controls
+
+·        Limiting the number of people with administrator credentials and the control rights for each administrator
+
+·        Automated patches for operating systems
+
+·        Limits for older operating systems (i.e., devices running Windows XL or older OS no longer supported)
+
+·        Firewalls
+
+·        Anti-virus programs and endpoint security
+
+·        Requiring two-factor authentication to gain access to certain files and systems:
+
+·        Evaluating the current governance structure to ensure that there are checks and balances throughout the system
+
+·        Limit administrative rights
+
+MarkLogic offers the following recommendations for enhancing risk management:
+
+Advanced encryption: Encryption is not a new feature in databases, but today encryption must be implemented in a more strategic and systematic way to protect data from cyber criminals and insider threats. This includes granular role-based access, standards-based cryptography, advanced key management, granular separation of duties, and state-of-art algorithms that drastically decrease exposure.
+
+Though data encryption is helpful against outside breaches, it does little to protect against internal data theft. Insiders with access to sensitive data will necessarily have the credentials to decrypt it. So companies must also protect against data being removed from enterprise systems though removable media such as thumb drives and other means.
+
+Redaction: Companies need to balance protection of data with the ability to share it. Redaction enables companies to share information with minimal effort by concealing sensitive information, like names and social security numbers, from queries and updates.
+
+Element-level security: While redaction is important, companies need to be able to do it at the element, or property, level based on an employee’s roles. Companies also need to be able to implement custom as well as out-of-the-box rules.
+
+The human element
+Beyond the technology precautions themselves, ongoing training and education about security threats is essential. Many hackers have moved beyond Trojans, viruses and other malware to phishing and spearphishing, targeting those with administrative rights and individuals to access executable files containing malware or to provide credentials or sensitive personal or corporate data.
+
+NIST recommends including cybersecurity information in company policies for employees of the company and for business partners so they know what is and what isn’t acceptable.
+
+Incident response
+Just being on the Internet exposes an enterprise to cybersecurity risk. External and internal attempts will be made to attempt to compromise an organization’s data. So incident response plans should be in place to determine what actions to take if certain incidents occur. An increase in hacker attempts at the enterprise or in the company’s industry could mean heightened precautions to be taken. If an actual breach occurs, the enterprise should have detailed plans in place for who to notify inside and outside the company, contact information for law enforcement, business suppliers and customers, an action item checklist, public relations response, etc. NIST offers a comprehensive incident response action plan.
+
+Cybersecurity solutions and risk management services
+Ideally, an organization will develop a comprehensive security posture that includes a combination of technologies such as firewalls, endpoint protection, intrusion prevention, threat intelligences and access controls. To get there, organizations might want to consider risk management services for a comprehensive assessment and solution recommendations to make sure their security budget is optimally spent.
